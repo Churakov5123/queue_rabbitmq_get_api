@@ -1,0 +1,8 @@
+список подключаемых пакетв для SuiteCRM:
+
+
+?XDEBUG_SESSION_START=1   - дебажим через postman
+
+ "php-amqplib/php-amqplib": "^2.10",
+   "symfony/console": "^3.4",  
+ "symfony/var-dumper": "^3.4"   -  для дебага
